@@ -9,7 +9,6 @@
 
 
 FLOWCHART
-
 ![Screenshot 2024-10-01 105510](https://github.com/user-attachments/assets/516f5bc0-611a-4928-93b6-a6bcec4b0a3c)
 
 
