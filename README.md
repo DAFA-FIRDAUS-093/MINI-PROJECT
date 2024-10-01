@@ -18,4 +18,29 @@ FLOWCHART
 
 ![Screenshot 2024-10-01 105510](https://github.com/user-attachments/assets/516f5bc0-611a-4928-93b6-a6bcec4b0a3c)
 
+1. Mulai
+Ini adalah titik awal program dimulai.
+2. Input Nama dan Password
+Pengguna diminta untuk memasukkan nama dan password untuk login ke sistem.
+3. Proses Validasi Login
+Setelah input, sistem akan memeriksa apakah username dan password yang dimasukkan benar.
+Jika username dan password salah, program akan kembali meminta pengguna memasukkan informasi yang benar.
+Jika benar, program melanjutkan ke langkah berikutnya.
+4. Input Jam Kerja dan Gaji (Tarif per Jam)
+Setelah login berhasil, pengguna akan diminta untuk memasukkan jumlah jam kerja dan tarif gaji per jam.
+5. Menghitung Total Gaji
+Program menghitung total gaji berdasarkan jumlah jam kerja yang dimasukkan dikalikan dengan tarif per jam.
+6. Pengecekan Apakah Jam Kerja > 160
+Setelah gaji dihitung, sistem akan memeriksa apakah jam kerja lebih dari 160 jam.
+Jika jam kerja lebih dari 160, program akan menambahkan bonus sebesar 10% dari total gaji.
+7. Output Hasil:
+Jika jam kerja lebih dari 160 jam, program akan menampilkan total gaji termasuk bonus.
+Jika jam kerja kurang atau sama dengan 160 jam, program akan menampilkan total gaji tanpa bonus, dengan pemberitahuan bahwa pengguna tidak menerima bonus.
+8. Apakah Ingin Menghitung Gaji Lagi?
+Pengguna diberikan pilihan apakah ingin menghitung gaji lagi atau keluar dari program.
+Jika pengguna memilih ya, program akan mengulangi proses input jam kerja dan tarif per jam.
+Jika pengguna memilih tidak, program akan menuju langkah selesai.
+9. Selesai
+Program selesai, dan proses berakhir.
+
 
