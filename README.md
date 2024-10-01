@@ -1,4 +1,5 @@
 # MINI-PROJECT
+CODDINGAN 
 ![Screenshot 2024-10-01 110719](https://github.com/user-attachments/assets/2e13a769-098c-4931-a6cf-57d9e6cb8ac3)
 
 1. jika anda memasukan nama dan password benar maka anda akan diminta untuk memasukan jam kerja dan selanjutnya memasukan gaji anda, maka bonus gaji anda akan muncul
