@@ -4,9 +4,8 @@
 1. jika anda memasukan nama dan password benar maka anda akan diminta untuk memasukan jam kerja dan selanjutnya memasukan gaji anda, maka bonus gaji anda akan muncul
 ![Screenshot 2024-10-01 111441](https://github.com/user-attachments/assets/ed531843-2797-4624-8986-5cd0c132bafa)
 
-
-![Screenshot 2024-10-01 111822](https://github.com/user-attachments/assets/a05a7d73-26a1-47d6-8db4-1bcdd7a436d3)
 2. jika anda salah memasukan nama dan password maka anda akan disuruh untuk memasukan nama dan password yang benar terlebih dahulu
+![Screenshot 2024-10-01 111822](https://github.com/user-attachments/assets/a05a7d73-26a1-47d6-8db4-1bcdd7a436d3)
 
 
 FLOWCHART
